@@ -15,5 +15,7 @@ https://raw.githubusercontent.com/MisterRedstone77/Vencord-Themes/main/lavender.
 Also Check out The Original Downloads made for Better Discord and other Client Mods:
 
 https://betterdiscord.app/theme/Lavender
+
 https://betterdiscord.app/theme/RadialStatus
+
 https://github.com/snappycreeper/OldDiscordFont
