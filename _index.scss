@@ -221,34 +221,7 @@
 			}
 		}
 
-		// Mobile indicator
-		foreignObject[mask*='mobile'] {
-			width: calc(100% + 4px);
-			&[width='32'] {
-				img {
-					width: calc(100% - 12px);
-				}
-			}
-			&[width='80'] {
-				img {
-					width: calc(100% - 16px);
-				}
-				&:after {
-					width: 14px;
-					height: 18px;
-					top: 75%;
-				}
-			}
-			&[width='120'] {
-				img {
-					width: calc(100% - 22px);
-				}
-				&:after {
-					width: 24px;
-					height: 20px;
-					top: 75%;
-				}
-			}
+		
 			&:after {
 				content: '';
 				display: var(--rs-phone-visible, block);
